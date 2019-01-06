@@ -1,0 +1,5 @@
+// items
+item.magic_sword.name=Magic Sword
+
+// blocks
+tile.lucky_block.name=Lucky Block

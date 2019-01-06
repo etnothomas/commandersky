@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lm",
+  "name": "Lucky Blocks",
+  "description": "Simple mod to create a lucky block",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Thomas Jensen", "Laerke Sophie Ulrich"],
+  "credits": "To many tutorials to list",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
